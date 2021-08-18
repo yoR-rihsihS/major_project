@@ -1,0 +1,62 @@
+[
+    {
+        "Model": "Logistic Regression",
+        "Accuracy": "98.245%",
+        "Sensitivity": "97.872%",
+        "Specificity": "98.507%",
+        "False_Omission_Rate": "2.127%",
+        "False_Detection_Rate": "1.492%",
+        "Mathews_Correlation_Coefficient": "96.379%",
+        "Area_Under_Curve": "98.2%"
+    },
+    {
+        "Model": "K-Nearest Neighbor",
+        "Accuracy": "97.368%",
+        "Sensitivity": "93.617%",
+        "Specificity": "100%",
+        "False_Omission_Rate": "6.382%",
+        "False_Detection_Rate": "0%",
+        "Mathews_Correlation_Coefficient": "91.189%",
+        "Area_Under_Curve": "96.8%"
+    },
+    {
+        "Model": "Support Vector Machine",
+        "Accuracy": "98.245%",
+        "Sensitivity": "97.872%",
+        "Specificity": "98.507%",
+        "False_Omission_Rate": "2.127%",
+        "False_Detection_Rate": "1.492%",
+        "Mathews_Correlation_Coefficient": "96.379%",
+        "Area_Under_Curve": "98.2%"
+    },
+    {
+        "Model": "Naive Bayes",
+        "Accuracy": "92.105%",
+        "Sensitivity": "87.234%",
+        "Specificity": "95.522%",
+        "False_Omission_Rate": "12.765%",
+        "False_Detection_Rate": "4.477%",
+        "Mathews_Correlation_Coefficient": "83.678%",
+        "Area_Under_Curve": "91.4%"
+    },
+    {
+        "Model": "Decision Tree",
+        "Accuracy": "97.368%",
+        "Sensitivity": "97.872%",
+        "Specificity": "97.014%",
+        "False_Omission_Rate": "2.127%",
+        "False_Detection_Rate": "2.985%",
+        "Mathews_Correlation_Coefficient": "94.602%",
+        "Area_Under_Curve": "97.4%"
+    },
+    {
+        "Model": "Random Forest",
+        "Accuracy": "97.368%",
+        "Sensitivity": "95.744%",
+        "Specificity": "98.507%",
+        "False_Omission_Rate": "4.255%",
+        "False_Detection_Rate": "1.492%",
+        "Mathews_Correlation_Coefficient": "94.567%",
+        "Area_Under_Curve": "97.1%"
+    }
+]
